@@ -1,0 +1,14 @@
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\bin\Debug\netcoreapp3.0\MoonCake-AutoElvui.exe
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\obj\Debug\netcoreapp3.0\MoonCake-AutoElvui.csprojAssemblyReference.cache
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\obj\Debug\netcoreapp3.0\MoonCake-AutoElvui.AssemblyInfoInputs.cache
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\obj\Debug\netcoreapp3.0\MoonCake-AutoElvui.AssemblyInfo.cs
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\bin\Debug\netcoreapp3.0\MoonCake-AutoElvui.deps.json
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\bin\Debug\netcoreapp3.0\MoonCake-AutoElvui.runtimeconfig.json
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\bin\Debug\netcoreapp3.0\MoonCake-AutoElvui.runtimeconfig.dev.json
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\bin\Debug\netcoreapp3.0\MoonCake-AutoElvui.dll
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\bin\Debug\netcoreapp3.0\MoonCake-AutoElvui.pdb
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\bin\Debug\netcoreapp3.0\HtmlAgilityPack.dll
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\obj\Debug\netcoreapp3.0\MoonCake-AutoElvui.csproj.CopyComplete
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\obj\Debug\netcoreapp3.0\MoonCake-AutoElvui.dll
+C:\Users\Enzo Blanchon\Desktop\Don'tRelease\MoonCake-AutoElvui\obj\Debug\netcoreapp3.0\MoonCake-AutoElvui.pdb
